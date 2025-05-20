@@ -18,6 +18,11 @@ This repository contains a very simple backend, ideal as a starting point for mo
   - GitHub Package Registry  
 - Simple and scalable CI/CD workflow
 
+##🖥️ AWS Requirements
+- EC2 with docker, docker compose installed.
+- AWS credentials with EC2FullAccess policy.
+- Set inbound rules to allow Http, Https and SSH trafic.
+
 ## 🧱 Project Structure
 ``` 
   Backend/ 
